@@ -12,3 +12,11 @@
 12. Program to convert total minutes into hours and remaining minutes
 13. Program to find the sum of digits of a two-digit number
 14. Program to calculate the number of ₹500 and ₹100 notes required
+15. Swap two numbers 
+16. Swap two numbers without third variable
+17. Initialize a variable balance = 1000. Perform operations using shorthand operators like +=, -=, *=, /= and print the updated balance after eavh operation balance = 1000
+18. 18. Write a Python program to take age as input and print True if age is between 18 and 60, otherwise print False.
+19. Write a Python program to take marks of three subjects out of 100. Print True if the student scored at least 40 in all three subjects and average marks at least 50.
+20. Write a Python program to take an integor and print True if the number is even and False if the number is odd.
+21. write a Python program to take input from the user without typecasting and multiply it by 3. Then typecast the same input to int and multiply it by 3. Print both results to show thw difference.
+22. Program to take student details like name, roll numer and hostel status from user. Typecast them into appropriate types and print them along with their detected type
