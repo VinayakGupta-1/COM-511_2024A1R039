@@ -1,0 +1,11 @@
+1. WAP to perform add, mul, division, of two number .Also find quotient
+2. WAP to find remainder when a number is divided by z.
+3. Check the type of variable assigned using input() fucnction
+4. Use comparision operator to find out whwther a given variable is greater than b
+5. WAP to find average of thwo number
+6. WAP to calculate square of a number enterd by user
+7. Program to take temperature in Celcius from the user and convert it into fahernhite
+8. Program to calculate Simple intrest and total amount using principal, rate and time entered by the user
+9. Program to take distance in kilometer and convert it into meters, centimeters and millimeters
+10. Program to ask the the user for radius and calculate area and circumfrence of a circle
+11. Write a python program to take a base number x and an exponenet y as input and calcultae x raise to power y.
