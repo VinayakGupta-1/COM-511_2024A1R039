@@ -8,4 +8,7 @@
 8. Program to calculate Simple intrest and total amount using principal, rate and time entered by the user
 9. Program to take distance in kilometer and convert it into meters, centimeters and millimeters
 10. Program to ask the the user for radius and calculate area and circumfrence of a circle
-11. Write a python program to take a base number x and an exponenet y as input and calcultae x raise to power y.
+11. Write a python program to take a base number x and an exponenet y as input and calcultae x raise to power y
+12. Program to convert total minutes into hours and remaining minutes
+13. Program to find the sum of digits of a two-digit number
+14. Program to calculate the number of ₹500 and ₹100 notes required
