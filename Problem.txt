@@ -31,3 +31,9 @@
 26. Write a python program to replace double spaces from problem 3 with single space
 27. Write a python program to format the following letter using escape sequence characters
     letter = "Dear Saurabh, this python course is nice. Thanks!"
+28. Write a python program to take a student full name and display
+    . Total number of characters, last characters, first character, Name in uppercase
+29. Write a python program to take a student name and roll number , then generarte a user name using the first 3 letters of the name and lst 2 digit of the roll number
+30. Write a python program to take an email address and print the domain name
+31. Write a python program to check whether an email ends with mietjammu.in
+32. Write a python program to take a 10 digit mobile number and display only the last 4 digit. Replace the first 6 digit with ********
