@@ -20,3 +20,14 @@
 20. Write a Python program to take an integor and print True if the number is even and False if the number is odd.
 21. write a Python program to take input from the user without typecasting and multiply it by 3. Then typecast the same input to int and multiply it by 3. Print both results to show thw difference.
 22. Program to take student details like name, roll numer and hostel status from user. Typecast them into appropriate types and print them along with their detected type
+23. Write a program to display a user entered name followed by "Good Afternoon" using input().
+24. Write a python program to fill the given letter template with name and date 
+    letter = """
+            Dear <Name>
+            You are selected
+            <Date>
+        """
+25. Write a python program to detect double space in string
+26. Write a python program to replace double spaces from problem 3 with single space
+27. Write a python program to format the following letter using escape sequence characters
+    letter = "Dear Saurabh, this python course is nice. Thanks!"
