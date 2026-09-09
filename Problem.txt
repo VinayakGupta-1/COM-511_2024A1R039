@@ -13,7 +13,7 @@
 13. Program to find the sum of digits of a two-digit number
 14. Program to calculate the number of ₹500 and ₹100 notes required
 15. Swap two numbers 
-16. Swap two numbers without third variable
+16. Swap two numbers without third variablem 
 17. Initialize a variable balance = 1000. Perform operations using shorthand operators like +=, -=, *=, /= and print the updated balance after eavh operation balance = 1000
 18. 18. Write a Python program to take age as input and print True if age is between 18 and 60, otherwise print False.
 19. Write a Python program to take marks of three subjects out of 100. Print True if the student scored at least 40 in all three subjects and average marks at least 50.
@@ -37,3 +37,50 @@
 30. Write a python program to take an email address and print the domain name
 31. Write a python program to check whether an email ends with mietjammu.in
 32. Write a python program to take a 10 digit mobile number and display only the last 4 digit. Replace the first 6 digit with ********
+33. Write a Python program to take a word and count the number of vowels a, e, i, o, u.
+34. Write a Python program to take a sentence and replace all spaces with underscores.
+35. Write a Python program to take a sentence, detect double spaces, and replace them with single spaces.
+36. Write a Python program to take a word and print it in reverse order using slicing. Also check whether it is the same forward and backward.
+37. Write a Python program to take first name and last name and print initials.
+38. Write a Python program to take a word and print every second character.
+39. Write a Python program to take a password and check whether it contains @ and has at least 8 characters.
+40. Write a Python program to take a string and separate characters present at even index positions and odd index positions. 
+41. Take an email address and check whether it contains @ and .com. 
+42. Take a sentence containing double spaces and unwanted spaces at the beginning or end. Clean the sentence.
+43. Take student full name and roll number. Generate email using first 3 letters of first name, first 3 letters of last name, and last 3 characters of roll number.43
+44. Take roll number like 2024A1R057 and extract admission year, program code, and roll number digits using slicing.43
+45. Take an email address and print username, domain, and reversed domain.43
+46. Take name, branch, and year. Generate a code name using string concatenation, slicing, and repetition.43
+47. Take a password and check length, presence of @, and whether first and last characters are different.
+48. Take a password and check length , presence of @ and whether first and last character are different
+49. Write a Python program to determine whether a student is eligible for a scholarship.
+    The scholarship should be granted if the student satisfies either of the following conditions:
+    a) The student has a CGPA of 8.5 or above and attendance of 85 percent or above.
+    b) The student has won a national-level competition.
+    The program should take CGPA, attendance percentage, and national-level competition status as input,
+     then display whether the student is eligible for the scholarship.
+50. Write a Python program to simulate a digital lock system. The lock should ask the user to enter a 4-digit PIN. If the entered PIN does not contain exactly 4 digits, the program should display an error message and ask again. 
+    If the entered PIN is correct, the lock should open. Otherwise, the program should ask the user to try again
+51. Write a Python program to calculate the final bill amount after applying a discount. The program should take the total bill amount as input from
+    the user and apply the discount according to the following rules:
+
+    Bill Amount        Discount
+    Above 5000         20 percent
+    3000 to 5000       10 percent
+    Below 3000         No discount
+
+    After calculating the discount, display the discount amount and the
+    final bill amount payable by the customer.
+52. Write a Python program to create a simple password validation system.The program should repeatedly ask the user to enter a password until a valid password 
+    is entered. A password is considered valid only if it hasat least 8 characters and contains the @ symbol.
+    Once the user enters a valid password, display "Password accepted." and
+    stop. Otherwise, display "Weak password. Try again." and ask again.
+53.Write a Python program to input marks of 5 students.
+    For each student, check whether the entered marks are valid or invalid.
+    Marks are considered valid only if they are between 0 and 100.
+    If the marks are invalid, display "Invalid marks skipped" and move to
+    the next student without printing those marks.
+    If the marks are valid, display the marks as valid.
+54. Write a Python program to input four numbers from the user and find the greatest number among them.
+55. 7. Write a Python program to detect whether a comment is spam or not. A comment should be treated as spam if it contains 
+    any of these keywords: "make a lot of money", "buy now", "subscribe this", or "click this".
