@@ -84,3 +84,14 @@
 54. Write a Python program to input four numbers from the user and find the greatest number among them.
 55. 7. Write a Python program to detect whether a comment is spam or not. A comment should be treated as spam if it contains 
     any of these keywords: "make a lot of money", "buy now", "subscribe this", or "click this".
+56. Write a Python program that asks the user to enter a username and password. The user should get only 3 attempts. 
+    If the correct credentials are entered, display "Login Successful" and stop the loop. If all attempts are used, display "Account Locked"
+57. Write a Python program to input a number and check whether it is prime or not. A number is prime if it has no divisor other than 1 and itself.
+58. Write a Python program to input two numbers and find their greatest common divisor using a loop.
+59. Write a Python program to check whether a number is a perfect number. 
+    A number is perfect if the sum of its proper divisors is equal to the number itself.
+60. Write a Python program to input a number and reverse it using arithmetic operations only. 
+61. Write a Python program to input a decimal number and convert it into binary without using the built-in bin() function.
+62. Write a Python program to print numbers from 1 to 50, but skip all numbers divisible by 4
+63. Write a Python program to repeatedly calculate the sum of digits of a number until the result becomes a single digit.
+    Example: 9875 ->9+8+7+5 = 29 -> 2+9= 11 -> 1+ 1 = 2

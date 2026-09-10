@@ -13,10 +13,10 @@ greatest = a
 if b > greatest:
     greatest = b
 
-    if c > greatest:
-        greatest = c
+if c > greatest:
+    greatest = c
 
-        if d > greatest:
-            greatest = d
+if d > greatest:
+    greatest = d
 
-            print("Greatest number =", greatest)
+print("Greatest number =", greatest)
