@@ -63,12 +63,10 @@
     If the entered PIN is correct, the lock should open. Otherwise, the program should ask the user to try again
 51. Write a Python program to calculate the final bill amount after applying a discount. The program should take the total bill amount as input from
     the user and apply the discount according to the following rules:
-
     Bill Amount        Discount
     Above 5000         20 percent
     3000 to 5000       10 percent
     Below 3000         No discount
-
     After calculating the discount, display the discount amount and the
     final bill amount payable by the customer.
 52. Write a Python program to create a simple password validation system.The program should repeatedly ask the user to enter a password until a valid password 
@@ -94,4 +92,17 @@
 61. Write a Python program to input a decimal number and convert it into binary without using the built-in bin() function.
 62. Write a Python program to print numbers from 1 to 50, but skip all numbers divisible by 4
 63. Write a Python program to repeatedly calculate the sum of digits of a number until the result becomes a single digit.
-    Example: 9875 ->9+8+7+5 = 29 -> 2+9= 11 -> 1+ 1 = 2
+    Example: 9875 ->9+8+7+5 = 29 -> 2+9= 11 -> 1+ 1 = 2 
+64. Write a python program to print the following pattern for n rows:
+    """
+    1
+    1 2
+    1 2 3
+    1 2 3 4
+    1 2 3 4 5
+    """
+65. Write a python program to pirnt a square pattern of stars for n rows and n columns.
+66. Write a python program to print right angled triangle pattern of stars for n rows.
+67. Write a python program to print an inverted right angled triangle pattern of stars for n rows.
+68. Write a python program to print floyd's triangle.
+69. Write a program to print a centered pyramid using stars. 
