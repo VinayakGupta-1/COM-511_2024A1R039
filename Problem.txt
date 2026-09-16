@@ -106,3 +106,4 @@
 67. Write a python program to print an inverted right angled triangle pattern of stars for n rows.
 68. Write a python program to print floyd's triangle.
 69. Write a program to print a centered pyramid using stars. 
+70. Write a python program to print a hallow square using stars.
