@@ -107,3 +107,17 @@
 68. Write a python program to print floyd's triangle.
 69. Write a program to print a centered pyramid using stars. 
 70. Write a python program to print a hallow square using stars.
+
+ ------LISTS------
+
+71. Write a Python program to input marks of n students in a list. 
+    Display highest marks, lowest marks, average marks, and number of students who passed.
+72. Write a Python program to input marks of 10 students. Store only valid marks between 0 and 100 in a list. 
+    Skip invalid marks.
+73. Write a Python program to input numbers in a list and find the second largest number.
+74. Write a Python program to input a list of numbers and create a new list containing only unique elements
+75. Write a Python program to input numbers in a list and create two separate lists for even and odd numbers.
+76. Write a Python program to rotate a list one position to the right.
+77. Write a menu-driven Python program where the user can add items, remove items, view cart, and exit.
+78. Write a Python program to count how many times a particular element appears in a list.
+79. Write a Python program to input two lists and create a third list containing common elements.
