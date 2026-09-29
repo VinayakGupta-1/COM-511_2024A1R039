@@ -121,3 +121,15 @@
 77. Write a menu-driven Python program where the user can add items, remove items, view cart, and exit.
 78. Write a Python program to count how many times a particular element appears in a list.
 79. Write a Python program to input two lists and create a third list containing common elements.
+
+------TUPLE-------
+
+80. Write a Python program to store two points as tuples and calculate the distance between them.
+81. Write a Python program to store all month names in a tuple. Input a month number and display the corresponding month name.
+82. Write a Python program to show that tuple values cannot be changed directly. Convert tuple into list, 
+    update it, and convert it back into tuple.
+83. Write a Python program to store repeated values in a tuple and count how many times a given value appears.
+84. Write a Python program to check whether a given value is present in a tuple. If present, display its position
+85. Write a Python program to store one student data as a tuple: name, roll number, and marks. Display grade based on marks.
+86. Write a Python program to store multiple student records as a list of tuples. Each tuple should contain name, roll number,
+    and marks. Display students who scored above 75.

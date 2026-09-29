@@ -21,5 +21,5 @@ for num in list1:
         common.append(num)
 
 print("First list:", list1)
-print("Second list:", list2)
+print("Second list:", list2) 
 print("Common elements:", common)
