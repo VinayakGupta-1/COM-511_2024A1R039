@@ -1,4 +1,4 @@
-"""Find the longest consecutive run of strictly improving test marks."""
+"""Find the longest consecutive sequence of strictly improving test marks."""
 
 n = int(input("Enter number of tests: "))
 while n < 1:
@@ -22,7 +22,6 @@ for index in range(1, n):
             best_start = current_start
             best_length = current_length
     else:
-        # A lower or equal mark breaks the improving sequence.
         current_start = index
         current_length = 1
 

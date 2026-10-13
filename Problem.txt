@@ -133,3 +133,13 @@
 85. Write a Python program to store one student data as a tuple: name, roll number, and marks. Display grade based on marks.
 86. Write a Python program to store multiple student records as a list of tuples. Each tuple should contain name, roll number,
     and marks. Display students who scored above 75.
+
+------DICTIONARY------
+
+87. Write a Python program to manage a small library using a dictionary. The program must repeatedly allow the user to
+    add books, issue books, return books, and display the current book record.
+    Conditions:
+    - Store book title as the key and available copies as the value.
+    - A book can be issued only if it exists and at least one copy is available.
+    - Return a book only if it already exists in the library record.
+    - Book names should work regardless of uppercase or lowercase letters.
